@@ -1,0 +1,22 @@
+{
+    "name": "leo980/realpath",
+    "description": "A realpath() implementation which allows non-exist paths.",
+    "type": "library",
+    "require-dev": {
+        "phpstan/phpstan": "^1.10",
+        "phpunit/phpunit": "^10.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/realpath.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Leo",
+            "email": "hardrain980@protonmail.com"
+        }
+    ],
+    "require": {}
+}
